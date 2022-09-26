@@ -2,6 +2,7 @@
     "name": "fzaninotto/faker",
     "type": "library",
     "description": "Faker is a PHP library that generates fake data for you.",
+    "version": "1.9.2",
     "keywords": [
         "faker",
         "fixtures",
@@ -29,11 +30,6 @@
     "autoload-dev": {
         "psr-4": {
             "Faker\\Test\\": "test/Faker/"
-        }
-    },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "1.9-dev"
         }
     },
     "config": {
